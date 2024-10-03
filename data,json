@@ -1,0 +1,223 @@
+[
+   {
+      "name": "Andrés Carne de Res",
+      "latitude": 4.810628,
+      "longitude": -74.036347,
+      "photo": "https://example.com/andres_carne_de_res.jpg",
+      "categories": [
+         "Colombiana",
+         "Carnes",
+         "Bar"
+      ],
+      "description": "Andrés Carne de Res es más que un restaurante; es una experiencia cultural y culinaria. Con su ambiente festivo, lleno de música en vivo, danza y espectáculos, este lugar se ha convertido en un destino imperdible tanto para turistas como para locales. Ofrecen una variada carta de platos típicos colombianos, especialmente carnes asadas, acompañadas de un ambiente inigualable. Sus múltiples niveles y espacios temáticos hacen que cada visita sea única, mientras disfrutas de una comida deliciosa en un entorno vibrante y colorido.",
+      "rating": 4.8
+   },
+   {
+      "name": "El Cielo",
+      "latitude": 4.670475,
+      "longitude": -74.053628,
+      "photo": "https://example.com/el_cielo.jpg",
+      "categories": [
+         "Gourmet",
+         "Fusión",
+         "Colombiana"
+      ],
+      "description": "El Cielo es un restaurante de alta cocina que ofrece una experiencia gastronómica única en Bogotá. Bajo la dirección del chef Juan Manuel Barrientos, este lugar ha revolucionado la forma de disfrutar la comida colombiana, utilizando técnicas de vanguardia como la gastronomía molecular. Cada plato es una obra de arte, diseñada para estimular todos los sentidos, desde el olfato hasta el tacto. La experiencia de cena aquí es más que una simple comida; es una inmersión en un mundo sensorial donde se entrelazan la creatividad y la tradición.",
+      "rating": 4.9
+   },
+   {
+      "name": "Harry Sasson",
+      "latitude": 4.662578,
+      "longitude": -74.055257,
+      "photo": "https://example.com/harry_sasson.jpg",
+      "categories": [
+         "Internacional",
+         "Carnes",
+         "Alta Cocina"
+      ],
+      "description": "Harry Sasson es sinónimo de excelencia culinaria en Colombia. Este restaurante ofrece una mezcla de sabores internacionales con un toque colombiano, destacándose por sus cortes de carne de primera calidad. El chef Harry Sasson ha construido una reputación de innovación y calidad que lo ha posicionado como uno de los mejores chefs de Latinoamérica. Con un ambiente elegante y un servicio impecable, es el lugar ideal para quienes buscan disfrutar de una experiencia gastronómica de primer nivel.",
+      "rating": 4.7
+   },
+   {
+      "name": "Restaurante Criterion",
+      "latitude": 4.668428,
+      "longitude": -74.052628,
+      "photo": "https://example.com/criterion.jpg",
+      "categories": [
+         "Internacional",
+         "Gourmet",
+         "Fusión"
+      ],
+      "description": "Criterion es un restaurante de renombre que ha sido galardonado en varias ocasiones por su cocina excepcional. Bajo la dirección de los hermanos Rausch, ofrece una fusión de sabores internacionales con un enfoque en ingredientes locales. El menú incluye desde platos gourmet clásicos hasta innovaciones culinarias que sorprenden y deleitan el paladar. El ambiente es sofisticado pero acogedor, ideal para cenas íntimas o celebraciones especiales.",
+      "rating": 4.6
+   },
+   {
+      "name": "Leo",
+      "latitude": 4.657904,
+      "longitude": -74.06151,
+      "photo": "https://example.com/leo.jpg",
+      "categories": [
+         "Colombiana",
+         "Gourmet",
+         "Innovación"
+      ],
+      "description": "Leo es el resultado de la creatividad y la pasión de la chef Leonor Espinosa, quien ha ganado múltiples reconocimientos a nivel mundial por su enfoque innovador de la cocina colombiana. Este restaurante se distingue por utilizar ingredientes autóctonos de comunidades rurales y étnicas de Colombia, convirtiendo cada plato en un viaje por la biodiversidad y la cultura del país. La experiencia en Leo va más allá de la comida; es una exploración de la historia y la identidad culinaria de Colombia.",
+      "rating": 4.9
+   },
+   {
+      "name": "Salvo Patria",
+      "latitude": 4.646276,
+      "longitude": -74.061961,
+      "photo": "https://example.com/salvo_patria.jpg",
+      "categories": [
+         "Colombiana",
+         "Brunch",
+         "Café"
+      ],
+      "description": "Salvo Patria es un acogedor restaurante que ofrece un menú de brunch y comidas ligeras con un enfoque en ingredientes locales y de temporada. El ambiente relajado, acompañado de un servicio amable y profesional, hace de este un lugar perfecto para reuniones informales o disfrutar de una tranquila tarde de café. Sus opciones varían desde platos tradicionales colombianos hasta recetas más contemporáneas, siempre con una presentación impecable.",
+      "rating": 4.5
+   },
+   {
+      "name": "Osaka",
+      "latitude": 4.667628,
+      "longitude": -74.055041,
+      "photo": "https://example.com/osaka.jpg",
+      "categories": [
+         "Fusión",
+         "Japonesa",
+         "Peruana"
+      ],
+      "description": "Osaka es un restaurante de fusión que combina los sabores y técnicas de la cocina japonesa y peruana en un ambiente moderno y elegante. Con una carta variada que incluye sushi, ceviche, y platos calientes, Osaka es ideal para quienes buscan una experiencia gastronómica única y sofisticada. Cada plato está elaborado con ingredientes frescos y de alta calidad, presentados con una estética visual impresionante que refleja la filosofía culinaria del restaurante.",
+      "rating": 4.8
+   },
+   {
+      "name": "Casa San Isidro",
+      "latitude": 4.601726,
+      "longitude": -74.068644,
+      "photo": "https://example.com/casa_san_isidro.jpg",
+      "categories": [
+         "Francesa",
+         "Romántica",
+         "Tradicional"
+      ],
+      "description": "Situado en la cima de Monserrate, Casa San Isidro no solo ofrece platos tradicionales franceses, sino también una de las vistas más espectaculares de Bogotá. Este restaurante es perfecto para una cena romántica o una ocasión especial, con un menú que destaca lo mejor de la cocina francesa clásica. Su ubicación en uno de los lugares más emblemáticos de la ciudad, junto con un servicio impecable, hace de cada visita una experiencia inolvidable.",
+      "rating": 4.7
+   },
+   {
+      "name": "Prudencia",
+      "latitude": 4.596911,
+      "longitude": -74.073106,
+      "photo": "https://example.com/prudencia.jpg",
+      "categories": [
+         "Gourmet",
+         "Colombiana",
+         "Innovación"
+      ],
+      "description": "Prudencia se encuentra en el corazón de La Candelaria y es conocido por su enfoque innovador en la cocina colombiana. El restaurante ofrece un menú que cambia regularmente, basado en ingredientes frescos y de temporada. Cada plato refleja un equilibrio entre lo tradicional y lo moderno, haciendo de Prudencia una joya para quienes buscan una experiencia gastronómica auténtica y única. Su atmósfera acogedora y su atención a los detalles hacen que cada comida sea memorable.",
+      "rating": 4.8
+   },
+   {
+      "name": "La Provincia",
+      "latitude": 4.683928,
+      "longitude": -74.048568,
+      "photo": "https://example.com/la_provincia.jpg",
+      "categories": [
+         "Mediterránea",
+         "Internacional",
+         "Mariscos"
+      ],
+      "description": "La Provincia es un restaurante elegante especializado en cocina mediterránea e internacional, con un fuerte enfoque en mariscos frescos. Su menú incluye una amplia gama de platos que combinan sabores tradicionales mediterráneos con influencias contemporáneas. El ambiente es sofisticado, con una decoración moderna que complementa la excelente calidad de la comida y el servicio. Es una excelente opción para quienes buscan una experiencia culinaria refinada en Bogotá.",
+      "rating": 4.6
+   },
+   {
+      "name": "La Ventana",
+      "latitude": 4.60971,
+      "longitude": -74.081749,
+      "photo": "https://example.com/la_ventana.jpg",
+      "categories": [
+         "Colombiana",
+         "Internacional",
+         "Gourmet"
+      ],
+      "description": "Ubicado en pleno centro de Bogotá, La Ventana ofrece una experiencia gastronómica de alta calidad, fusionando lo mejor de la cocina colombiana e internacional. El restaurante es conocido por su ambiente moderno y elegante, ideal para cenas de negocios o celebraciones especiales. La presentación de los platos es exquisita, y el menú incluye una variedad de opciones que satisfacen los paladares más exigentes.",
+      "rating": 4.5
+   },
+   {
+      "name": "Café San Alberto",
+      "latitude": 4.606755,
+      "longitude": -74.073153,
+      "photo": "https://example.com/cafe_san_alberto.jpg",
+      "categories": [
+         "Café",
+         "Postres",
+         "Colombiana"
+      ],
+      "description": "Café San Alberto es el lugar ideal para los amantes del café de especialidad. Famoso por su café de origen único, este café ofrece una experiencia que va más allá de una simple taza de café, con catas y métodos de preparación únicos. Además, su carta de postres artesanales y snacks ligeros es el complemento perfecto para disfrutar de una tarde relajada en uno de los barrios más históricos de Bogotá.",
+      "rating": 4.9
+   },
+   {
+      "name": "La Puerta Falsa",
+      "latitude": 4.601786,
+      "longitude": -74.073776,
+      "photo": "https://example.com/la_puerta_falsa.jpg",
+      "categories": [
+         "Tradicional",
+         "Colombiana",
+         "Desayunos"
+      ],
+      "description": "Fundado en 1816, La Puerta Falsa es uno de los restaurantes más antiguos y tradicionales de Bogotá. Especializado en comida típica colombiana, sus tamales y chocolate santafereño son famosos entre locales y turistas. El lugar ha mantenido su autenticidad a lo largo de los años, ofreciendo una experiencia gastronómica que evoca la Bogotá de antaño. Un destino imperdible para quienes buscan probar lo mejor de la cocina tradicional colombiana.",
+      "rating": 4.7
+   },
+   {
+      "name": "Wok",
+      "latitude": 4.676348,
+      "longitude": -74.049537,
+      "photo": "https://example.com/wok.jpg",
+      "categories": [
+         "Asiática",
+         "Fusión",
+         "Sushi"
+      ],
+      "description": "Wok es una cadena de restaurantes muy popular en Bogotá, famosa por su enfoque en la cocina asiática y la sostenibilidad. Su menú incluye una variedad de platos que van desde sushi hasta curries, todos preparados con ingredientes frescos y, siempre que sea posible, de origen local. Con un ambiente relajado y moderno, Wok es una excelente opción para quienes buscan sabores asiáticos en un entorno casual.",
+      "rating": 4.5
+   },
+   {
+      "name": "Ramen House",
+      "latitude": 4.665918,
+      "longitude": -74.057189,
+      "photo": "https://example.com/ramen_house.jpg",
+      "categories": [
+         "Japonesa",
+         "Ramen",
+         "Fusión"
+      ],
+      "description": "Ramen House es el lugar perfecto para los amantes de la cocina japonesa, en especial del ramen. Con una amplia selección de sopas ramen, desde las tradicionales hasta opciones más innovadoras, este restaurante ha ganado una gran popularidad por su autenticidad y calidad. Además de ramen, ofrecen otros platos japoneses como gyozas y yakitori. El ambiente es acogedor y perfecto para disfrutar de una comida caliente en cualquier momento del día.",
+      "rating": 4.6
+   },
+   {
+      "name": "La Xarcuteria",
+      "latitude": 4.666041,
+      "longitude": -74.052313,
+      "photo": "https://example.com/la_xarcuteria.jpg",
+      "categories": [
+         "Carnes",
+         "Americana",
+         "Casual"
+      ],
+      "description": "La Xarcuteria es el lugar perfecto para los amantes de la carne y los embutidos. Con una oferta que incluye hamburguesas, costillas y carnes a la parrilla, este restaurante tiene un ambiente relajado y casual que lo convierte en una excelente opción para una comida informal. Además, su carta de cervezas artesanales complementa perfectamente sus platos, haciendo de La Xarcuteria un lugar ideal para pasar tiempo con amigos o familia.",
+      "rating": 4.4
+   },
+   {
+      "name": "Persepolis",
+      "latitude": 4.660787,
+      "longitude": -74.056058,
+      "photo": "https://example.com/persepolis.jpg",
+      "categories": [
+         "Persa",
+         "Mediterránea",
+         "Vegetariana"
+      ],
+      "description": "Persepolis es uno de los pocos restaurantes en Bogotá que ofrece auténtica cocina persa. Con un menú que incluye una variedad de platos vegetarianos y opciones mediterráneas, este restaurante se ha ganado la reputación de ser un destino culinario exótico y delicioso. Los platos están elaborados con una mezcla de especias y sabores únicos del Medio Oriente, presentados con una estética y un cuidado exquisitos.",
+      "rating": 4.6
+   }
+]
